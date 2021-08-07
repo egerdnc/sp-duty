@@ -1,0 +1,5 @@
+SPONTANE = {}
+
+SPONTANE.config = {
+    coords = {}
+}
